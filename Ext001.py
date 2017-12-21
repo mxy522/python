@@ -1,5 +1,5 @@
 # Ext_1 编写一个递归函数来计算列表包含的元素数。
- 
+  
 def count(list):
     if list == []:
         return 0
